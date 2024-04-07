@@ -1,0 +1,23 @@
+{
+  "name": "numjs",
+  "publisher": "indra87g",
+  "description": "A simple library to add more math function for data science",
+  "version": "0.1.0",
+  "module": "index.js",
+  "type": "module",
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "license": "MIT",
+  "repository": "indra87g/numjs",
+  "scripts": {
+    "check": "bun test",
+    "pretty": "prettier"
+  },
+  "devDependencies": {
+    "@sinclair/hammer": "latest",
+    "prettier": "latest",
+    "eslint": "latest"
+  }
+}
