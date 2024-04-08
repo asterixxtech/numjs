@@ -1,6 +1,4 @@
 # NumJs
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fasterixxtech%2Fnumjs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fasterixxtech%2Fnumjs?ref=badge_shield)
-
 
 > [Website]() &middot;
 > [Documentation]()
@@ -10,7 +8,9 @@
 This is like ```numpy```, but for javascript
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fasterixxtech%2Fnumjs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fasterixxtech%2Fnumjs?ref=badge_large)
+<br>
 [![CodSpeed Badge](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/asterixxtech/numjs)
+[![Node.js Package](https://github.com/asterixxtech/numjs/actions/workflows/npm-publish.yml/badge.svg?branch=main)](https://github.com/asterixxtech/numjs/actions/workflows/npm-publish.yml)
 
 ## Featured Function
 - Numerical (etc: Multiply 30 and 67)
