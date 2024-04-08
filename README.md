@@ -1,4 +1,6 @@
 # NumJs
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fasterixxtech%2Fnumjs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fasterixxtech%2Fnumjs?ref=badge_shield)
+
 
 > [Website]() &middot;
 > [Documentation]()
@@ -30,3 +32,6 @@ convert.MInch(10); // 25.4
 The MIT License
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fasterixxtech%2Fnumjs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fasterixxtech%2Fnumjs?ref=badge_large)
