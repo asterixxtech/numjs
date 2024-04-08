@@ -18,6 +18,7 @@
   "devDependencies": {
     "@sinclair/hammer": "latest",
     "prettier": "latest",
-    "eslint": "latest"
+    "eslint": "latest",
+    "@codspeed/benchmark.js-plugin": "latest"
   }
 }
