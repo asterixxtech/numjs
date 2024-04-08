@@ -8,6 +8,7 @@
 This is like ```numpy```, but for javascript
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fasterixxtech%2Fnumjs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fasterixxtech%2Fnumjs?ref=badge_large)
+[![CodSpeed Badge](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/asterixxtech/numjs)
 
 ## Featured Function
 - Numerical (etc: Multiply 30 and 67)
