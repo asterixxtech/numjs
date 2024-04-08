@@ -11,6 +11,7 @@ This is like ```numpy```, but for javascript
 <br>
 [![CodSpeed Badge](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/asterixxtech/numjs)
 [![Node.js Package](https://github.com/asterixxtech/numjs/actions/workflows/npm-publish.yml/badge.svg?branch=main)](https://github.com/asterixxtech/numjs/actions/workflows/npm-publish.yml)
+[![njsscan sarif](https://github.com/asterixxtech/numjs/actions/workflows/njsscan.yml/badge.svg)](https://github.com/asterixxtech/numjs/actions/workflows/njsscan.yml)
 
 ## Featured Function
 - Numerical (etc: Multiply 30 and 67)
